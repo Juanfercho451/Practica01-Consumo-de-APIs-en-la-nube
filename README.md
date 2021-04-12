@@ -115,6 +115,9 @@ y la firma de cada estudiante</h3>
 
 <ul><li>Los estudiantes podrán identificar arquitecturas web utilizando servicios en la nube. Así como también, podrán consumir APIs y manipular objetos JSON.</li></ul>
 
+<ul><li>Hacer uso de APIs, ayuda notablemente al uso de información relevante con tan solo una llave pública y privada podemos hacer uso de la documentación.</li></ul>
+
+
 <h2>RECOMENDACIONES:</h2>
 
 <ul>

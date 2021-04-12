@@ -113,7 +113,15 @@ y la firma de cada estudiante</h3>
 ![image](https://user-images.githubusercontent.com/56609114/114435836-4035ec80-9b8a-11eb-9e6b-a66a7847bb88.png)
 
 <h2>CONCLUSIONES:</h2>
+
+<ul><li>•	Los estudiantes podrán identificar arquitecturas web utilizando servicios en la nube. Así como también, podrán consumir APIs y manipular objetos JSON.</li></ul>
+
 <h2>RECOMENDACIONES:</h2>
+
+<ul>
+<li> •	Es recomendable cifrar las llaves y crearlos en un solo archivo para únicamente cuando necesitemos hacer uso de las APIs, solo llamemos al método de esta manera no comprometemos nuestros datos privados.</li>
+<li> •	Md5 es un buen algoritmo que podemos usar para proteger nuestras llaves ya sean públicas o privadas.</li>
+</ul>
 
 <ul><li>Docente: Ing. Gabriel León Paredes, PhD.</li></ul>
 

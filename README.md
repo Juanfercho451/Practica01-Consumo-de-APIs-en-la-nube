@@ -105,8 +105,7 @@ y la firma de cada estudiante</h3>
 
 <h2>RESULTADO(S) OBTENIDO(S):</h2>
 
-<h3>•	Identifica las diferentes arquitecturas Web para el desarrollo de aplicaciones.</h3>
-
+<ul><li>Identifica las diferentes arquitecturas Web para el desarrollo de aplicaciones.</li></ul>
 
 ![image](https://user-images.githubusercontent.com/56609114/114435827-3dd39280-9b8a-11eb-96be-3521bd869307.png)
 
@@ -114,13 +113,13 @@ y la firma de cada estudiante</h3>
 
 <h2>CONCLUSIONES:</h2>
 
-<ul><li>•	Los estudiantes podrán identificar arquitecturas web utilizando servicios en la nube. Así como también, podrán consumir APIs y manipular objetos JSON.</li></ul>
+<ul><li>Los estudiantes podrán identificar arquitecturas web utilizando servicios en la nube. Así como también, podrán consumir APIs y manipular objetos JSON.</li></ul>
 
 <h2>RECOMENDACIONES:</h2>
 
 <ul>
-<li> •	Es recomendable cifrar las llaves y crearlos en un solo archivo para únicamente cuando necesitemos hacer uso de las APIs, solo llamemos al método de esta manera no comprometemos nuestros datos privados.</li>
-<li> •	Md5 es un buen algoritmo que podemos usar para proteger nuestras llaves ya sean públicas o privadas.</li>
+<li>Es recomendable cifrar las llaves y crearlos en un solo archivo para únicamente cuando necesitemos hacer uso de las APIs, solo llamemos al método de esta manera no comprometemos nuestros datos privados.</li>
+<li>Md5 es un buen algoritmo que podemos usar para proteger nuestras llaves ya sean públicas o privadas.</li>
 </ul>
 
 <ul><li>Docente: Ing. Gabriel León Paredes, PhD.</li></ul>

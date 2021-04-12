@@ -1,4 +1,4 @@
-# Practica01-Consumo-de-APIs-en-la-nube
+# Consumo de APIs WEB (plataformas en la nube)
 Primer trabajo, aplicaciones distribuidas
 
 <h2>OBJETIVOS</h2>

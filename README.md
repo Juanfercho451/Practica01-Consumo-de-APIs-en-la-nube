@@ -98,6 +98,32 @@ Primer trabajo, aplicaciones distribuidas
 <h3>6. Implementar el README del repositorio del proyecto con la misma información del informe de la práctica
 </h3>
 
+![image](https://user-images.githubusercontent.com/56609114/114435608-f77e3380-9b89-11eb-9e3c-b1fd793bf127.png)
+
+<h3>7. Subir al AVAC el informe del proyecto en formato *.pdf. El informe debe contar con conclusiones apropiadas
+y la firma de cada estudiante</h3>
+
+<h2>RESULTADO(S) OBTENIDO(S):</h2>
+
+<h3>•	Identifica las diferentes arquitecturas Web para el desarrollo de aplicaciones.</h3>
+
+
+![image](https://user-images.githubusercontent.com/56609114/114435827-3dd39280-9b8a-11eb-96be-3521bd869307.png)
+
+![image](https://user-images.githubusercontent.com/56609114/114435836-4035ec80-9b8a-11eb-9e6b-a66a7847bb88.png)
+
+<h2>CONCLUSIONES:</h2>
+<h2>RECOMENDACIONES:</h2>
+
+<ul><li>Docente: Ing. Gabriel León Paredes, PhD.</li></ul>
+
+![image](https://user-images.githubusercontent.com/56609114/114435995-73787b80-9b8a-11eb-8c08-77c27507f1dd.png)
+
+<ul><li>Estudiante: Juan Fernando Cordova Arevalo</li></ul>
+
+![image](https://user-images.githubusercontent.com/56609114/114436345-d4a04f00-9b8a-11eb-92d1-0c431f2fb892.png)
+
+
 
 
 

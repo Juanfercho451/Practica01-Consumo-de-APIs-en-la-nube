@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.main-title {
+    text-align: center;
+    color: white;
+    
+}
+
+.marvel {
+    text-align: center;
+    color: whitesmoke;
+    text-decoration: double;
+}
+
+.hero-img {
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-img:hover .descripcion {
+    top: 0;
+}
+
+.thumbnail {
+    display: block;
+    width: 100%;
+}
+
+.descripcion {
+    display: flex;
+    align-items: center;
+    color: white;
+    background: hsla(0, 0%, 20%, .8);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -100%;
+    margin: 0;
+    padding: 1em;
+}
+
+#push,
+footer {
+    height: 100px;
+    
+}

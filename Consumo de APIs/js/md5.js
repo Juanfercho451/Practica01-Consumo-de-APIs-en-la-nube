@@ -3,8 +3,7 @@ var MD5 = function (string) {
     function RotateLeft(lValue, iShiftBits) {
             return (lValue<<iShiftBits) | (lValue>>>(32-iShiftBits));
     }
- 
-    function AddUnsigned(lX,lY) {
+     function AddUnsigned(lX,lY) {
             var lX4,lY4,lX8,lY8,lResult;
             lX8 = (lX & 0x80000000);
             lY8 = (lY & 0x80000000);
@@ -24,8 +23,7 @@ var MD5 = function (string) {
                     return (lResult ^ lX8 ^ lY8);
             }
     }
- 
-    function F(x,y,z) { return (x & y) | ((~x) & z); }
+     function F(x,y,z) { return (x & y) | ((~x) & z); }
     function G(x,y,z) { return (x & z) | (y & (~z)); }
     function H(x,y,z) { return (x ^ y ^ z); }
     function I(x,y,z) { return (y ^ (x | (~z))); }

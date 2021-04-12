@@ -2,33 +2,27 @@ body {
     background-color: black;
     color: white;
 }
-
 .main-title {
     text-align: center;
     color: white;
     
 }
-
 .marvel {
     text-align: center;
     color: whitesmoke;
     text-decoration: double;
 }
-
 .hero-img {
     position: relative;
     overflow: hidden;
 }
-
 .hero-img:hover .descripcion {
     top: 0;
 }
-
 .thumbnail {
     display: block;
     width: 100%;
 }
-
 .descripcion {
     display: flex;
     align-items: center;
@@ -41,7 +35,6 @@ body {
     margin: 0;
     padding: 1em;
 }
-
 #push,
 footer {
     height: 100px;
